@@ -1,4 +1,4 @@
-# motion-detector
+# MOTION DETECTOR
 motion detection using Python's OpenCV library
 
 ## SETUP:
